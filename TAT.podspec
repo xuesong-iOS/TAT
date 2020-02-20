@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'TAT'
-  s.version  = '0.0.1'
+  s.version  = '0.0.2'
   s.ios.deployment_target = '8.0'
   s.license  =  { :type => 'MIT', :file => 'LICENSE' }
   s.summary  = 'A clean and lightweight progress HUD for your iOS and tvOS app.'
