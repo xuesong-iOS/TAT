@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.description = 'SVProgressHUD is a clean and easy-to-use HUD meant to display the progress of an ongoing task on iOS and tvOS. The success and error icons are from Freepik from Flaticon and are licensed under Creative Commons BY 3.0.'
 
-s.vendored_frameworks = 'TAT.framework'
+#s.vendored_frameworks = 'TAT.framework'
 s.resources    = 'TAT.bundle'
 
   s.requires_arc = true
